@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.1
+
+- More S06 improvements.
+- Use the more modern bigmap.
+
 ## 1.1
 
 - Added a subtle wind sound effect and screen color adjust effect for snow in S06 The High Pass.
