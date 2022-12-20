@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.2
+
+- New unique flag for Kal Kartha.
+- Balance updates for S11 The Underlevels.
+- Stop awkward Goliath animations on cave terrain.
+
 ## 1.1.1
 
 - More S06 improvements.
